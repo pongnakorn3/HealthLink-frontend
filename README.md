@@ -2,7 +2,8 @@
 npm start in cmd and you'll get this Home page
 And then you've read now !!
 
-![Home_ProductManagement](https://github.com/user-attachments/assets/95560bfd-a0f7-4c1e-9e7f-2dbaa2b9f1a2)
+![Screenshot 2025-02-25 221253](https://github.com/user-attachments/assets/f7998f86-5535-4f56-811a-58f36e0ac7bf)
+
 
 ## You can do CRUD by this method
 
